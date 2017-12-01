@@ -16,7 +16,7 @@ This course provides a comprehensive, practical introduction to modern deep lear
 - **Prerequisites**: C- or better in CMSC330 and CMSC250, Proficiency in Python, Basic knowledge of Machine Learning
 - **Credits**: 1
 - **Seats**: 30
-- **Lecture Time**: Fridays, TBD
+- **Lecture Time**: Fridays, 12:00-12:50 PM
 - **Location**: TBD
 - **Semester**: Spring 2018
 - **Textbook**: None
