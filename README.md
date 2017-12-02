@@ -133,6 +133,7 @@ Dr. Jordan Boyd-Graber - jbg@umiacs.umd.edu
 TAs:
 
 Sujith Vishwajith - svishwaj@terpmail.umd.edu
+
 Sashank Thupukari - sthupuka@terpmail.umd.edu
 
 ## Excused Absence and Academic Accommodations
