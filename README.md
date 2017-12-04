@@ -20,7 +20,7 @@ This course provides a comprehensive, practical introduction to modern deep lear
 - **Location**: TBD
 - **Semester**: Spring 2018
 - **Textbook**: None
-- **Course Facilitators**: [Sujith Vishwajith](https://www.linkedin.com/in/sujithv28)
+- **Course Facilitators**: [Sujith Vishwajith](https://www.linkedin.com/in/sujithv28), [Sashank Thupukari](https://www.linkedin.com/in/sthupukari)
 - **Faculty Advisor**: [Jordan Boyd-Graber](http://www.umiacs.umd.edu/~jbg/)
 - **Syllabus Last Updated**: November 27, 2017
 
