@@ -12,7 +12,7 @@ This course provides a comprehensive, practical introduction to modern deep lear
 
 ## Course Details
 
-- **Course**: [CMSC389A](https://ntst.umd.edu/soc/)
+- **Course**: [CMSC389A](https://ntst.umd.edu/soc/search?courseId=cmsc389a&sectionId=&termId=201801&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&_blended=on&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on)
 - **Prerequisites**: C- or better in CMSC330 and CMSC250, Proficiency in Python, Basic knowledge of Machine Learning
 - **Credits**: 1
 - **Seats**: 30
