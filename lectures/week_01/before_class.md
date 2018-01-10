@@ -1,8 +1,7 @@
 Before Class
+-
 
 Here is some material we think would be helpful for this week's class.
-
--
 
 1. **Learn X in Y Minutes: Python**
 
