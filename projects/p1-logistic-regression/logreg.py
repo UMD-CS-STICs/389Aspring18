@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+
 import argparse
 import numpy as np
 import pandas as pd
@@ -5,23 +8,7 @@ from math import exp
 from sklearn.utils import shuffle
 
 
-kSEED = 7
-
-
-class Example:
-    """
-    Class to represent a logistic regression example
-    """
-
-    def __init__(self, features, label):
-        """
-        Create a new example.
-
-        :param label: The label (0 / 1) of the example
-        :param vocab: The real valued features of patient (list)
-        """
-        self.features = features
-        self.label = label
+kSEED = 5
 
 
 def normalize_dataframe(df):
@@ -69,10 +56,11 @@ def train_test_split(data, frac=0.8):
 
     :return: Returns two lists: one used for training and one for testing.
     """
+    
 
-    
-    
-    
+
+
+
     return data, data
 
 
@@ -93,55 +81,77 @@ def get_accuracy(y_bar, y_pred):
     return accuracy
 
 
-def predict(features, coef):
+class Example:
     """
-    Given an example's features and the coefficients, predicts the class.
-
-    :param features: List of real valued features for a single training example.
-    :param coef: List of model weight coefficients where coef[0] is the bias.
-
-    :return: Returns the predicted class (either 0 or 1).
+    Class to represent a logistic regression example.
     """
 
+    def __init__(self, features, label):
+        """
+        Create a new example.
+
+        :param label: The label (0 / 1) of the example
+        :param vocab: The real valued features of patient (list)
+        """
+        self.features = features
+        self.label = label
 
 
-
-    return 0
-
-
-def sg_update(example, coef, l_rate):
+class Model:
     """
-    Computes the update to the weights based on a predicted example.
-
-    :param example: Example to predict class on.
-    :param coef: List of weights for the model.
-    :param l_rate: Initial learning rate for model.
-
-    :return: Returns a list of updated model weight coefficients where coef[0] is the bias.
+    Class to represent a logistic regression model.
     """
-    yhat = predict(example.features, coef)
+
+    def __init__(self, l_rate, n_epoch, train):
+        """
+        Create a new model with certain parameters.
+
+        :param l_rate: Initial learning rate for model.
+        :param n_epoch: Number of epochs to train for.
+        :param train: List of training Examples to train model on.
+        """
+        self.l_rate = l_rate
+        self.n_epoch = n_epoch
+        self.coef = [0.0] * (len(train[0].features))
+        self.bias = 0.0
+
+    def predict(self, features):
+        """
+        Given an example's features and the coefficients, predicts the class.
+
+        :param features: List of real valued features for a single training example.
+
+        :return: Returns the predicted class (either 0 or 1).
+        """
+        
 
 
 
+        return 0
 
-    return coef
+    def sg_update(self, example):
+        """
+        Computes the update to the weights based on a predicted example.
+
+        :param example: Example to predict class on.
+        """
+        yhat = self.predict(example.features)
+        
 
 
-def sgd(train, l_rate, n_epoch):
-    """
-    Computes logistic regression coefficients using stochastic gradient descent.
 
-    :param train: List of training Examples to train model on.
-    :param l_rate: Initial learning rate for model.
-    :param n_epoch: Number of epochs to train for.
+        return
 
-    :return: Returns a list of model weight coefficients where coef[0] is the bias.
-    """
-    coef = [0.0] * (len(train[0].features) + 1)
-    for epoch in range(n_epoch):
-        for example in train:
-            coef = sg_update(example, coef, l_rate)
-    return coef
+    def sgd(self):
+        """
+        Computes logistic regression coefficients using stochastic gradient descent.
+
+        :return: Returns a list of model weight coefficients where coef[0] is the bias.
+        """
+        for epoch in range(self.n_epoch):
+            for example in train:
+                self.sg_update(example)
+        return self.coef
 
 
 if __name__ == '__main__':
@@ -170,19 +180,17 @@ if __name__ == '__main__':
 
     # Train model.
     print('[INFO] Began training model.')
-    coef = sgd(train, args.lr, args.n_epoch)
+    model = Model(args.lr, args.n_epoch, train)
+    model.sgd()
 
     # Get model predictions.
     print('[INFO] Getting predictions.')
     y_pred = list()
-    for example in test:
-        yhat = predict(example.features, coef)
-        yhat = round(yhat)
-        y_pred.append(yhat)
+    y_pred = [round(model.predict(example.features)) for example in test]
 
     # Evaluate model.
     y_bar = [example.label for example in test]
     accuracy = get_accuracy(y_bar, y_pred)
-    print('[INFO] Accuracy: {:0.3f}\n'.format(accuracy))
+    print('[INFO] Accuracy: {:0.3f}'.format(accuracy))
 
     print('\n[DONE]')
