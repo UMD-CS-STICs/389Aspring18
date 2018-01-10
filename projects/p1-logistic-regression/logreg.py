@@ -69,9 +69,11 @@ def train_test_split(data, frac=0.8):
 
     :return: Returns two lists: one used for training and one for testing.
     """
-    train = data
-    test = data
-    return train, test
+
+    
+    
+    
+    return data, data
 
 
 def get_accuracy(y_bar, y_pred):
