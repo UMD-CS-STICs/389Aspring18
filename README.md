@@ -17,7 +17,7 @@ This course provides a comprehensive, practical introduction to modern deep lear
 - **Credits**: 1
 - **Seats**: 30
 - **Lecture Time**: Fridays, 12:00-12:50 PM
-- **Location**: TBD
+- **Location**: CSIC 2118
 - **Semester**: Spring 2018
 - **Textbook**: None
 - **Course Facilitators**: [Sujith Vishwajith](https://www.linkedin.com/in/sujithv28), [Sashank Thupukari](https://www.linkedin.com/in/sthupukari)
