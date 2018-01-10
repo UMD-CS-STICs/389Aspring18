@@ -17,9 +17,9 @@ Assignment
 Coding (20 points):
 
 1. Understand how the code works.
-2. (5 points) The method _train_test_split_ currently both trains and tests on the entire dataset. Update the  method to return a shuffled list of 80% training data and 20% testing data. (You can change the percentages when experimenting but for the final submission leave it as an 80-20 split.)
-3. (5 points) Finish implementing the _predict_ function that predicts the class given the feature vector and weights.
-3. (10 points) Finish implementing the _sg_update_ function to update the weights based on the predicted class value.
+2. (5 points) The method `train_test_split` currently both trains and tests on the entire dataset. Update the  method to return a shuffled list of 80% training data and 20% testing data. (You can change the percentages when experimenting but for the final submission leave it as an 80-20 split.)
+3. (5 points) Finish implementing the `predict` function that predicts the class given the feature vector and weights.
+3. (10 points) Finish implementing the `sg_update` function to update the weights based on the predicted class value.
 
 Analysis (10 points):
 
@@ -29,19 +29,19 @@ Analysis (10 points):
 4. What words are the poorest predictors of classes?  How (mathematically) did you find them?
 
 Extra credit:
-1. Implemenent the _normalize_dataframe_ function.
+1. Implemenent the `normalize_dataframe` function.
     - Normalize all the real valued features to be between -1 and 1.
     - Explain why this would be useful.
 2. Use a schedule to update the learning rate.
     - Supply an appropriate argument to step parameter
-    - Support it in your _sg_update_
+    - Support it in your `sg_update`
     - Show the effect in your analysis document
 
 What to turn in
 -
 
-1. Submit your _logreg.py_ file (include your name at the top of the source)
-1. Submit your _analysis.pdf_ file
+1. Submit your `logreg.py` file (include your name at the top of the source)
+1. Submit your `analysis.pdf` file
     - no more than one page
     - pictures are better than text
     - include your name at the top of the PDF
@@ -50,7 +50,7 @@ Hints
 -
 
 1.  Try debugging your code with a small number of epochs first and check if your accuracy improves over time.
-2. You may find df['feature'].max(), df['feature'].min(), df['feature'].mean() to be useful for the  _normalize_dataframe_ function extra credit.
+2. You may find `df['feature'].max()`, `df['feature'].min()`, and `df['feature'].mean()` to be useful for the  `normalize_dataframe` function extra credit.
 
 
 ###### Thanks to the writers of <a href = "https://github.com/Pinafore/ml-hw/blob/master/logreg/assign.md">this</a> assigment for the wording and inspiration of much of this project.
