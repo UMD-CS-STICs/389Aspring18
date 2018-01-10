@@ -53,4 +53,6 @@ Hints
 2. You may find df['feature'].max(), df['feature'].min(), df['feature'].mean() to be useful for the  _normalize_dataframe_ function extra credit.
 
 
-###### Thanks to the writers of <a href = "https://github.com/Pinafore/ml-hw/blob/master/logreg/assign.md">this</a> assigment for the wording and inspiration of much of this project. Also thanks to UCI for the Pima Indians Diabetes Dataset available <a href="https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes">here</a>.
+###### Thanks to the writers of <a href = "https://github.com/Pinafore/ml-hw/blob/master/logreg/assign.md">this</a> assigment for the wording and inspiration of much of this project.
+
+###### Also thanks to UCI for the Pima Indians Diabetes Dataset available <a href="https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes">here</a>.
