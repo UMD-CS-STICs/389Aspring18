@@ -5,7 +5,15 @@ Due: 16. February (23:59)
 
 Overview
 -
-In this assignment you will implement logistic regression with stochastic gradient descent (SGD). The task we will apply this to is predicting whether or not a patient has diabetes.
+In this assignment you will implement logistic regression with stochastic gradient descent (SGD). The task we will apply this to is predicting whether or not a patient has diabetes (0: no diabetes, 1: diabetes). The information we are given about the patient include:
+1. Number of times pregnant 
+2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test 
+3. Diastolic blood pressure (mm Hg) 
+4. Triceps skin fold thickness (mm) 
+5. 2-Hour serum insulin (mu U/ml) 
+6. Body mass index (weight in kg/(height in m)^2) 
+7. Diabetes pedigree function 
+8. Age (years)
 
 You should **not** use any libraries that implement any of the logistic regression or sgd functionality for you. In the future we will be able to use premade implementations but this assignment will serve as a warm up and should not take more than an hour to complete.
 
