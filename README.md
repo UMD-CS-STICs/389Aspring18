@@ -95,7 +95,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | Week | Topic | Assignment |
 | ----|----|----- |
 | 1 (1/26) | Introduction to Deep Learning + Syllabus| |
-| 2 (2/2) | Review | P1 Logistic Regression OUT |
+| 2 (2/2) | Review | [P1 OUT](projects/p1-logistic-regression/README.md) |
 | 3 (2/9) | Optimization | |
 | 4 (2/16) | Neural Networks | P1 DUE, P2 OUT |
 | 5 (2/23) | Neural Networks (cont.) | |
