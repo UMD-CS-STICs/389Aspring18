@@ -17,7 +17,7 @@ In this assignment you will implement logistic regression with stochastic gradie
 
 You should **not** use any libraries that implement any of the logistic regression or sgd functionality for you. In the future we will be able to use premade implementations but this assignment will serve as a warm up and should not take more than an hour to complete.
 
-You will turn in the assigment to the submit server by 2/16 at 11:59 p.m.
+You will turn in the assigment using the submit server by 2/16 at 11:59 p.m.
 
 Assignment
 -
