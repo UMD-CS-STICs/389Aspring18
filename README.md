@@ -97,7 +97,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 1 (1/26) | Introduction to Deep Learning + Syllabus| |
 | 2 (2/2) | Review | [P1 OUT](projects/p1-logistic-regression/README.md) |
 | 3 (2/9) | Optimization | |
-| 4 (2/16) | Neural Networks | P1 DUE, P2 OUT |
+| 4 (2/16) | Neural Networks | [P1 DUE](projects/p1-logistic-regression/README.md), P2 OUT |
 | 5 (2/23) | Neural Networks (cont.) | |
 | 6 (3/2) | Tuning and Debugging Neural Networks | |
 | 7 (3/9) | Deep Learning for Images | P2 DUE, P3 OUT |
