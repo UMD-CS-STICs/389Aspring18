@@ -1,5 +1,5 @@
-# Week 1: Introduction to Deep Learning + Syllabus
--------------------------
+Week 1: Introduction to Deep Learning + Syllabus
+=
 
 Welcome to CMSC389A on Practical Deep Learning!
 
