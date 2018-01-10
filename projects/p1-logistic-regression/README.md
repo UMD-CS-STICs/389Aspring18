@@ -25,7 +25,7 @@ Assignment
 #### Coding (20 points):
 
 1. Understand how the code works.
-2. (5 points) The method `train_test_split` currently both trains and tests on the entire dataset. Update the  method to return a shuffled list of 80% training data and 20% testing data. (You can change the percentages when experimenting but for the final submission leave it as an 80-20 split.)
+2. (5 points) The method `train_test_split` currently both trains and tests on the entire dataset. Update the method to return a shuffled list of 80% training data and 20% testing data. You may find the `shuffle` function by sklearn to be useful here but make sure to provide the `random_state` parameter equal to kSEED. (You can change the percentages when experimenting but for the final submission leave it as an 80-20 split.)
 3. (5 points) Finish implementing the `predict` function that predicts the class given the feature vector and weights.
 3. (10 points) Finish implementing the `sg_update` function to update the weights based on the predicted class value.
 
