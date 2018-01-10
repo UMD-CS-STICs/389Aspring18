@@ -5,7 +5,7 @@ Welcome to CMSC389A on Practical Deep Learning!
 
 Here are a few resources that we would like you to check out before our first class.
 
-Pre-Class Content
+Before Class
 -
 
 1. **Learn X in Y Minutes: Python**
