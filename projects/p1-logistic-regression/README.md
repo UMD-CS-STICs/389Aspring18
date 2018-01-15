@@ -30,7 +30,7 @@ Assignment
 4. (5 points) Perceptron: In `perceptron.py`, implement the `predict` function that predicts the class given the feature vector and weights.
 5. (5 points) Perceptron: In `perceptron.py`, finish implementing the `sg_update` function to update the weights based on the predicted class value using SGD.
 
-The accuracy of both models should be above 70% for full credit.
+The accuracy of both models should be above 60% for full credit.
 
 #### Analysis (10 points):
 

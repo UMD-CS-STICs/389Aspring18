@@ -1,4 +1,5 @@
 from math import exp
+from numpy import sign
 
 
 class LogReg:
@@ -19,6 +20,17 @@ class LogReg:
         self.coef = [0.0] * n_features
         self.bias = 0.0
 
+    def sigmoid(self, score, threshold=20.0):
+        """
+        Prevent overflow of exp by capping activation at 20.
+
+        :param score: A real valued number to convert into a number between 0 and 1
+        """
+        if abs(score) > threshold:
+            score = threshold * sign(score)
+        activation = exp(score)
+        return activation / (1.0 + activation)
+
     def predict(self, features):
         """
         Given an example's features and the coefficients, predicts the class.
@@ -27,7 +39,6 @@ class LogReg:
 
         :return: Returns the predicted class (either 0 or 1).
         """
-
 
 
 
