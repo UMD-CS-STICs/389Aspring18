@@ -25,7 +25,7 @@ Assignment
 #### Coding (20 points):
 
 1. Understand how the code works.
-2. (5 points) Logistic Regression: In `logreg.py`, implement the `predict` function that predicts the class given the feature vector and weights.
+2. (5 points) Logistic Regression: In `logreg.py`, implement the `predict` function that predicts the class given the feature vector and weights. The `sigmoid` function is already implemented for you just call `self.sigmoid(float value)`.
 3. (5 points) Logistic Regression: In `logreg.py`, finish implementing the `sg_update` function to update the weights based on the predicted class value using SGD.
 4. (5 points) Perceptron: In `perceptron.py`, implement the `predict` function that predicts the class given the feature vector and weights.
 5. (5 points) Perceptron: In `perceptron.py`, finish implementing the `sg_update` function to update the weights based on the predicted class value using SGD.
