@@ -1,7 +1,4 @@
-from math import exp
-
-
-class LogReg:
+class Perceptron:
     """
     Class to represent a logistic regression model.
     """
@@ -27,7 +24,7 @@ class LogReg:
 
         :return: Returns the predicted class (either 0 or 1).
         """
-
+        
 
 
 
@@ -49,12 +46,10 @@ class LogReg:
 
     def train(self, X, y):
         """
-        Computes logistic regression coefficients using stochastic gradient descent.
+        Trains the model on training data.
 
         :param X: Features to train on.
         :param y: Corresponding label for each set of features.
-
-        :return: Returns a list of model weight coefficients where coef[0] is the bias.
         """
         for epoch in range(self.epochs):
             for features, label in zip(X, y):

@@ -1,11 +1,11 @@
-Project 1: Logistic Regression
+Project 1: Logistic Regression & Perceptron
 =
 
 Due: 16. February (23:59)
 
 Overview
 -
-In this assignment you will implement logistic regression with stochastic gradient descent (SGD). The task we will apply this to is predicting whether or not a patient has diabetes (0: no diabetes, 1: diabetes). The information we are given about the patient include:
+In this assignment you will implement logistic regression along with a basic perceptron model both using stochastic gradient descent (SGD). The task we will apply this to is predicting whether or not a patient has diabetes (0: no diabetes, 1: diabetes). The information we are given about the patient include:
 1. Number of times pregnant 
 2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test 
 3. Diastolic blood pressure (mm Hg) 
@@ -15,7 +15,7 @@ In this assignment you will implement logistic regression with stochastic gradie
 7. Diabetes pedigree function 
 8. Age (years)
 
-You should **not** use any libraries that implement any of the logistic regression or sgd functionality for you. In the future we will be able to use premade implementations but this assignment will serve as a warm up and should not take more than an hour to complete.
+You should **not** use any libraries that implement any of the logistic regression, perceptron, or sgd functionality for you. In the future we will be able to use premade implementations but this assignment will serve as a warm up and should not take more than an hour to complete.
 
 You will turn in the assigment using the submit server by 2/16 at 11:59 p.m.
 
@@ -25,16 +25,21 @@ Assignment
 #### Coding (20 points):
 
 1. Understand how the code works.
-2. (5 points) The method `train_test_split` currently both trains and tests on the entire dataset. Update the method to return a shuffled list of 80% training data and 20% testing data. You may find the `shuffle` function by sklearn to be useful here but make sure to provide the `random_state` parameter equal to kSEED. (You can change the percentages when experimenting but for the final submission leave it as an 80-20 split.)
-3. (5 points) Finish implementing the `predict` function that predicts the class given the feature vector and weights.
-3. (10 points) Finish implementing the `sg_update` function to update the weights based on the predicted class value.
+2. (5 points) Logistic Regression: In `logreg.py`, implement the `predict` function that predicts the class given the feature vector and weights.
+3. (5 points) Logistic Regression: In `logreg.py`, finish implementing the `sg_update` function to update the weights based on the predicted class value using SGD.
+4. (5 points) Perceptron: In `perceptron.py`, implement the `predict` function that predicts the class given the feature vector and weights.
+5. (5 points) Perceptron: In `perceptron.py`, finish implementing the `sg_update` function to update the weights based on the predicted class value using SGD.
+
+The accuracy of both models should be above 70% for full credit.
 
 #### Analysis (10 points):
 
+Questions (1-4) refer to the logistic regression model.
 1. What is the role of the learning rate?
 2. How many passes over the data do you need to complete?
 3. What words are the best predictors of each class?  How (mathematically) did you find them?
 4. What words are the poorest predictors of classes?  How (mathematically) did you find them?
+5. What is an advantage of the perceptron algorithm compared to logistic regression?
 
 #### Extra credit:
 
@@ -49,7 +54,7 @@ Assignment
 What to turn in
 -
 
-1. Submit your `logreg.py` file (include your name at the top of the source)
+1. Submit your `logreg.py` and `perceptron.py` file (include your name at the top of the source)
 1. Submit your `analysis.pdf` file
     - no more than one page
     - pictures are better than text
@@ -58,8 +63,9 @@ What to turn in
 Hints
 -
 
-1.  Try debugging your code with a small number of epochs first and check if your accuracy improves over time.
-2. You may find `df['feature'].max()`, `df['feature'].min()`, and `df['feature'].mean()` to be useful for the  `normalize_dataframe` function extra credit.
+1. The methods for the perceptron model and the logistic regression model should look very similar with only slight differences in the update logic and prediction.
+2. Try debugging your code with a small number of epochs first and check if your accuracy improves over time.
+3. You may find `df['feature'].max()`, `df['feature'].min()`, and `df['feature'].mean()` to be useful for the  `normalize_dataframe` function extra credit.
 
 
 ###### Thanks to the writers of <a href = "https://github.com/Pinafore/ml-hw/blob/master/logreg/assign.md">this</a> assigment for the wording and inspiration of much of this project. Also thanks to UCI for the Pima Indians Diabetes Dataset available <a href="https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes">here</a>.
