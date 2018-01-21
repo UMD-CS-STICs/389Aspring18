@@ -20,7 +20,7 @@ This course provides a comprehensive, practical introduction to modern deep lear
 - **Location**: CSIC 2118
 - **Semester**: Spring 2018
 - **Textbook**: None
-- **Course Facilitators**: [Sujith Vishwajith](https://www.linkedin.com/in/sujithv28), [Sashank Thupukari](https://www.linkedin.com/in/sthupukari)
+- **Course Facilitators**: [Sujith Vishwajith](https://www.linkedin.com/in/sujithv28)
 - **Faculty Advisor**: [Jordan Boyd-Graber](http://www.umiacs.umd.edu/~jbg/)
 - **Syllabus Last Updated**: November 27, 2017
 
