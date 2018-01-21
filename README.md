@@ -108,7 +108,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 12 (4/13) | EXAM | P4 DUE |
 | 13 (4/20) | Pretrained Models | |
 | 14 (4/27) | Review / Guest Speaker TBD | |
-| 15 (5/4) | PRESENTATIONS | Final Project DUE |
+| 15 (5/4) | Presentations | Final Project DUE |
 
 The timeline is not final and can be subject to change.
 
