@@ -134,8 +134,6 @@ TAs:
 
 Sujith Vishwajith - svishwaj@terpmail.umd.edu
 
-Sashank Thupukari - sthupuka@terpmail.umd.edu
-
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
 
