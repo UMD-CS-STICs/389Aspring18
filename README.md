@@ -126,11 +126,11 @@ The final project will be an oppurtunity to apply the course material into a dee
 ## Outside-of-class communication with course staff
 We will interact with students outside of class in primarily two ways: in-person during office hours and piazza. Email should only be used for emergencies and not class related questions (e.g., projects). You can enroll in the Piazza discussion through [here](https://piazza.com/class/jctw49q99ct1vz?cid=4#). Please try to use Piazza as the main method of communication regarding content and class questions. For personal discussions, please email Sujith Vishwajith first and they will escalate it to Dr. Boyd-Graber if necessary.
 
-#####Instructor:
+##### Instructor:
 
 Dr. Jordan Boyd-Graber - <jbg@umiacs.umd.edu>
 
-#####Course Facilitator:
+##### Course Facilitator:
 
 Sujith Vishwajith - <svishwaj@terpmail.umd.edu>
 
