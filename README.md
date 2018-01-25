@@ -12,7 +12,7 @@ This course provides a comprehensive, practical introduction to modern deep lear
 
 ## Course Details
 
-- **Course**: [CMSC389A](https://ntst.umd.edu/soc/search?courseId=cmsc389a&sectionId=&termId=201801&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&_blended=on&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on)
+- **Course**: [[CMSC389A](https://ntst.umd.edu/soc/search?courseId=cmsc389a&sectionId=&termId=201801&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&_blended=on&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on)] [[Piazza](https://piazza.com/class/jctw49q99ct1vz?cid=4#)]
 - **Prerequisites**: C- or better in CMSC330 and CMSC250, Proficiency in Python, Basic knowledge of Machine Learning
 - **Credits**: 1
 - **Seats**: 30
@@ -124,7 +124,7 @@ The final project will be an oppurtunity to apply the course material into a dee
 
 ## Outside-of-class communication with course staff
 We will interact with students outside of class in primarily two ways: in-person during office hours and piazza. Email should
-only be used for emergencies and not class related questions (e.g., projects).
+only be used for emergencies and not class related questions (e.g., projects). You can enroll in the Piazza discussion through [here](https://piazza.com/class/jctw49q99ct1vz?cid=4#).
 
 Instructor:
 
