@@ -21,7 +21,7 @@ This course provides a comprehensive, practical introduction to modern deep lear
 - **Location**: CSIC 2118
 - **Semester**: Spring 2018
 - **Textbook**: None
-- **Course Facilitators**: [Sujith Vishwajith](https://www.linkedin.com/in/sujithv28)
+- **Course Facilitator**: [Sujith Vishwajith](https://www.linkedin.com/in/sujithv28)
 - **Faculty Advisor**: [Jordan Boyd-Graber](http://www.umiacs.umd.edu/~jbg/)
 - **Syllabus Last Updated**: January 24, 2018
 
@@ -69,7 +69,7 @@ Recommended:
   - Overfitting
   - Visualizations
 - Pretrained Models
-  - Word2Vec, ImageNet, etc.
+  - Word2Vec, Glove, etc.
   - Using pretrained models for different task
 - Libraries
   - Keras
@@ -77,6 +77,22 @@ Recommended:
   - Numpy
 
 ## Grading
+Grades will be maintained on the CS Department <a href="https://grades.cs.umd.edu/">grades server</a>.
+
+You are responsible for all material discussed in lecture and posted on the class repository, including announcements, deadlines, policies, etc.
+
+Your final course grade will be determined according to the following percentages:
+
+| Percentage | Title | Description |
+| ------------- | -----|-------- |
+| 40% | Projects | Weekly individual projects that teach practical skills and real life applications. |
+| 20% | Midterm | Examination |
+| 40% | Final Project | Final project to demonstrate mastery of all topics learned and apply knowledge to create a new application from scratch. |
+
+Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests will be considered afterwards.
+
+#
+# Grading
 Grades will be maintained on the CS Department <a href="https://grades.cs.umd.edu/">grades server</a>.
 
 You are responsible for all material discussed in lecture and posted on the class repository, including announcements, deadlines, policies, etc.
@@ -124,15 +140,16 @@ Unlike lower-level programming classes, we will not provide you with test cases 
 The final project will be an oppurtunity to apply the course material into a deep learning application that you will build from the ground up to accomplish a task of your choosing. Some example tasks could be facial recognition, predicting stock prices, disease classification, etc. Students will also be required to submit a writeup and/or 2-5 minute video highlighting how their application works. More information on the final project will be available as the course progresses.
 
 ## Outside-of-class communication with course staff
-We will interact with students outside of class in primarily two ways: in-person during office hours and piazza. Email should only be used for emergencies and not class related questions (e.g., projects). You can enroll in the Piazza discussion through [here](https://piazza.com/class/jctw49q99ct1vz?cid=4#). Please try to use Piazza as the main method of communication regarding content and class questions. For personal discussions, please email Sujith Vishwajith first and they will escalate it to Dr. Boyd-Graber if necessary.
+We will interact with students outside of class in primarily two ways: in-person during office hours and piazza. Email should only be used for emergencies and not class related questions (e.g., projects). You can enroll in the Piazza discussion through [here](https://piazza.com/class/jctw49q99ct1vz?cid=4#). Please try to use Piazza as the main method of communication regarding content and class questions. For personal discussions, please email Sujith Vishwajith first and he will escalate it to Dr. Boyd-Graber if necessary.
 
-#### Course Facilitator:
+##### Course Facilitator:
 
 Sujith Vishwajith - <svishwaj@terpmail.umd.edu>
 
-#### Instructor:
+##### Advisor:
 
 Dr. Jordan Boyd-Graber - <jbg@umiacs.umd.edu>
+
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
