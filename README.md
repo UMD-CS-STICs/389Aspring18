@@ -95,8 +95,8 @@ Any request for reconsideration of any grading on coursework must be submitted w
 
 | Week | Topic | Assignment |
 | ----|----|----- |
-| 1 (1/26) | Introduction to Deep Learning + Syllabus| |
-| 2 (2/2) | Review | [P1 OUT](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/p1-logistic-regression-perceptron) |
+| 1 (1/26) | Intro to Deep Learning + Logistic Regression | |
+| 2 (2/2) | Perceptron Algorithm + MLPs | [P1 OUT](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/p1-logistic-regression-perceptron) |
 | 3 (2/9) | Optimization | |
 | 4 (2/16) | Neural Networks | [P1 DUE](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/p1-logistic-regression-perceptron), P2 OUT |
 | 5 (2/23) | Neural Networks (cont.) | |
