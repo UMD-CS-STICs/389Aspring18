@@ -13,7 +13,7 @@ This course provides a comprehensive, practical introduction to modern deep lear
 
 ## Course Details
 
-- **Course**: [[Website](https://umd-cs-stics.gitbooks.io/cmsc389a-practical-deep-learning/)] [[GitHub](https://github.com/UMD-CS-STICs/389Aspring18)] [[Piazza](piazza.com/umd/spring2018/cmsc389a)] [[Testudo](https://ntst.umd.edu/soc/search?courseId=cmsc389a&sectionId=&termId=201801&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&_blended=on&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on)]
+- **Course**: [[Website](https://umd-cs-stics.gitbooks.io/cmsc389a-practical-deep-learning/)] [[GitHub](https://github.com/UMD-CS-STICs/389Aspring18)] [[Piazza](https://piazza.com/umd/spring2018/cmsc389a)] [[Testudo](https://ntst.umd.edu/soc/search?courseId=cmsc389a&sectionId=&termId=201801&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&_blended=on&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on)]
 - **Prerequisites**: C- or better in CMSC330 and CMSC250, Proficiency in Python, Basic knowledge of Machine Learning
 - **Credits**: 1
 - **Seats**: 30
