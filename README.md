@@ -91,22 +91,6 @@ Your final course grade will be determined according to the following percentage
 
 Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests will be considered afterwards.
 
-#
-# Grading
-Grades will be maintained on the CS Department <a href="https://grades.cs.umd.edu/">grades server</a>.
-
-You are responsible for all material discussed in lecture and posted on the class repository, including announcements, deadlines, policies, etc.
-
-Your final course grade will be determined according to the following percentages:
-
-| Percentage | Title | Description |
-| ------------- | -----|-------- |
-| 40% | Projects | Weekly individual projects that teach practical skills and real life applications. |
-| 20% | Midterm | Examination |
-| 40% | Final Project | Final project to demonstrate mastery of all topics learned and apply knowledge to create a new application from scratch. |
-
-Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests will be considered afterwards.
-
 ### Timeline
 
 | Week | Topic | Assignment |
