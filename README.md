@@ -91,7 +91,7 @@ Your final course grade will be determined according to the following percentage
 
 Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests will be considered afterwards.
 
-### Timeline
+## Timeline
 
 | Week | Topic | Assignment |
 | ----|----|----- |
