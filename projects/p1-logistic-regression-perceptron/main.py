@@ -61,8 +61,8 @@ def train_test_split(data, frac=0.8, seed=5):
     test = data[split_index:]
     X_train = [example.features for example in train]
     y_train = [example.label for example in train]
-    X_test = [example.features for example in train]
-    y_test = [example.label for example in train]
+    X_test = [example.features for example in test]
+    y_test = [example.label for example in test]
     return X_train, X_test, y_train, y_test
 
 
