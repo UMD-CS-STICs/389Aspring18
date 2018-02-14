@@ -37,8 +37,8 @@ The accuracy of both models should be above 60% for full credit.
 Questions (1-4) refer to the logistic regression model.
 1. What is the role of the learning rate?
 2. How many passes over the data do you need to complete?
-3. What words are the best predictors of each class?  How (mathematically) did you find them?
-4. What words are the poorest predictors of classes?  How (mathematically) did you find them?
+3. What features are the best predictors of each class?  How (mathematically) did you find them?
+4. What features are the poorest predictors of classes?  How (mathematically) did you find them?
 5. What is an advantage of the perceptron algorithm compared to logistic regression?
 
 #### Extra credit:
