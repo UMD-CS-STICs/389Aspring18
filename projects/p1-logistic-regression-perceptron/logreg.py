@@ -33,7 +33,7 @@ class LogReg:
 
     def predict(self, features):
         """
-        Given an example's features and the coefficients, predicts the class.
+        Given an example's features and the coefficients, predicts the class probability.
 
         :param features: List of real valued features for a single training example.
 
