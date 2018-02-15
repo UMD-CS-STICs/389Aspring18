@@ -37,7 +37,7 @@ class LogReg:
 
         :param features: List of real valued features for a single training example.
 
-        :return: Returns the predicted class (either 0 or 1).
+        :return: Returns the predicted probability (between 0 and 1).
         """
 
 
