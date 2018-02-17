@@ -1,5 +1,4 @@
-#
-Tutorials
+# Tutorials
 
 ## Backpropagation
 - The example of backpropagation we did in class: <https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/>. It's important to go over the examples several times as it takes a while to get a grasp of it. Don't worry you eventually will!
