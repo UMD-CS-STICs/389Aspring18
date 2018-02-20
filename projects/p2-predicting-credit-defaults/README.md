@@ -43,14 +43,14 @@ Assignment
 Using what you've learnt in the class, build a neural network model that accomplishes this. It should output a single probability for each individual which represents their likelihood of defaulting. You can take advantage of Keras and any other preprocessing or data libraries in your code.
 
 #### Coding (35 points):
-This project is more open ended for implementation as in the real world you won't be given templates to fill your code in. We do provide a framework however for implementing the code that you should follow. All of your code should be written in a single Jupyter notebook file with the title "project-N-firstname-lastname". Where N is the project number (in this case 1 for the first one), firstname is your first name, and lastname is your last name.
+This project is more open ended for implementation as in the real world you won't be given templates to fill your code in. We do however provide a Jupyter Notebook `Practical 2 Code.ipynb` containing a framework for implementing the code that you should follow. All of your code should be written in the Jupyter notebook.
 
-Split your notebook into 4 different sections for each of the following tasks with each section titled "Section 1", "Section 2", etc. Make sure at the top of the section under the header, you give an explanation (minimum of 3 sentences) explaining what you did. Formatting these section headers can be done by simply setting the cell type to be Markdown in the toolbar. The four sections are:
+Tne provided notebook is split into 4 different sections for each of the following tasks with each section titled "Section 1", "Section 2", etc. Make sure at the top of the section under the header, you give an explanation (minimum of 3 sentences) explaining what you did. The four sections are:
 
-1. Loading the data and performing a train-test split. The data is available as a file titled `UCI_Credit_Card.csv`.
-2. Building a neural network in Keras appropriate for the task.
-3. Training the neural network on the training data.
-4. Predicting defaults on the testing data and computing the scores.
+1. **Loading and processing the data**: In this section you will load the data from the file `UCI_Credit_Card.csv` and process it appropriately. You will also perform the train-test split in this section.
+2. **Building the model**: In this section you will write all the code to build your model in Keras. The model should output a single number between 0 and 1 which is the probability which represents whether the individual will default or not.
+3. **Training the model**: In this section you will write all the coded needed to train your model on the data from Section 0. Make sure you dont train the model on the data you will test on!
+4. **Testing the model and results**: In this section you will compute the accuracy of your model on the test data from Section 0. Make sure you very clearly have a cell that outputs and prints the percentage accuracy of your model. You will also include any code used to analyze the results here.
 
 **WARNING**: We keep have a list of all the implementations and tutorials building models for this on the web. Copying code from them is considered academic dishonesty and will result in a report to the student honor council. However, please feel free to understand the logic behind their code and emulate it yourself. If you do this, please cite any articles in the `README.md`.
 
@@ -68,7 +68,7 @@ Split your notebook into 4 different sections for each of the following tasks wi
 What to turn in
 -
 
-1. Your `.ipynb` Jupyter notebook file containing your code.
+1. Your `Practical 2 Code.ipynb` Jupyter notebook file containing your code. Please make sure you run all your cells before submitting so I don't have to run them on my end.
 2. A `README.md` listing any extra packages that I need to run your code. Also contains any blogs or tutorials you looked at. 
 3. An `analysis.pdf` file
     - pictures are better than text
