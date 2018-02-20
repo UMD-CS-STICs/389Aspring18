@@ -6,7 +6,7 @@ Due: 2. March (23:59)
 Overview
 -
 
-Banks and credit card clients often have a high risk in that they don't know if an indvidual will default on their credit card payment or not. They want to reduce this risk by building a model that utilizes features they have in their database about each invidual. The 26 features they have collected are:
+Banks and credit card clients often have a high risk in that they don't know if an indvidual will default on their credit card payment or not. Specifically, clients in Taiwan want to reduce this risk by building a model that utilizes features they have in their database about each invidual. The 26 features they have collected are:
 
 * ID: ID of each client
 * LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
