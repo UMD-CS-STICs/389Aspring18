@@ -1,4 +1,4 @@
-Project 2: Predicting Credit Card Defaults
+Practical 2: Predicting Credit Card Defaults
 =
 
 Due: 2. March (23:59)
