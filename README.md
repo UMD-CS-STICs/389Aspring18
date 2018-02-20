@@ -98,10 +98,10 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 1 (1/26) | Intro to Deep Learning + Logistic Regression | |
 | 2 (2/2) | Perceptrons + Environment Setup | [P1 OUT](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/p1-logistic-regression-perceptron) |
 | 3 (2/9) | MLPs + Backpropagation | |
-| 4 (2/16) | Neural Networks | [P1 DUE](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/p1-logistic-regression-perceptron), P2 OUT |
-| 5 (2/23) | Neural Networks (cont.) | |
-| 6 (3/2) | Tuning and Debugging Neural Networks | |
-| 7 (3/9) | Deep Learning for Images | P2 DUE, P3 OUT |
+| 4 (2/16) | Neural Networks | [P1 DUE](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/p1-logistic-regression-perceptron), [P2 OUT](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/p2-predicting-credit-defaults) |
+| 5 (2/23) | Multiclass Classification + Tuning | |
+| 6 (3/2) | Debugging Neural Networks | [P2 DUE](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/p2-predicting-credit-defaults) |
+| 7 (3/9) | Deep Learning for Images | P3 OUT |
 | 8 (3/16) | Deep Learning for Images (cont.) | |
 | 9 (3/23) | SPRING BREAK | |
 | 10 (3/30) | Deep Learning for Sequences | P3 DUE, P4 OUT |
