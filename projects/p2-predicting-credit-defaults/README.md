@@ -3,6 +3,11 @@ Practical 2: Predicting Credit Card Defaults
 
 Due: 2. March (23:59)
 
+![](https://blog.bankbazaar.com/wp-content/uploads/2016/03/Surviving-a-Credit-Card-Default.png)
+
+#
+##### Image taken from [here](https://blog.bankbazaar.com).
+
 Overview
 -
 
