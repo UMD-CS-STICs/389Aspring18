@@ -3,6 +3,9 @@ Project 1: Logistic Regression & Perceptron
 
 Due: 16. February (23:59)
 
+![](https://www.foodandhealth.com/images/clipart/Diabetes.png)
+###### Image from [here](http://foodandhealth.com/clipart.php/view/690/).
+
 Overview
 -
 In this assignment you will implement logistic regression along with a basic perceptron model both using stochastic gradient descent (SGD). The task we will apply this to is predicting whether or not a patient has diabetes (0: no diabetes, 1: diabetes). The information we are given about the patient include:
