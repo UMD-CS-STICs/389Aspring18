@@ -1,9 +1,7 @@
 # CMSC389A: Practical Deep Learning
 
 ![](http://brandmark.io/intro/deeplearning.svg)
-
-#
-##### Image taken from [here](http://brandmark.io/intro/).
+##### Image from [here](http://brandmark.io/intro/).
 
 ## Course Description
 
