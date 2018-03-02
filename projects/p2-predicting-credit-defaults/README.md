@@ -1,7 +1,7 @@
 Practical 2: Predicting Credit Card Defaults
 =
 
-Due: 2. March (23:59)
+Due: 9. March (23:59)
 
 ![](https://blog.bankbazaar.com/wp-content/uploads/2016/03/Surviving-a-Credit-Card-Default.png)
 ##### Image from [here](https://blog.bankbazaar.com).
@@ -39,7 +39,7 @@ Banks and credit card clients often have a high risk in that they don't know if 
 
 They've hired you to build a model that can help them predict whether a patient will default on their payment based on these features.
 
-You will turn in the assigment using the submit server by 2/16 at 11:59 p.m. Please make sure your zip file follows the format `project_N_firstname_lastname.zip`. Where `N` is the project number (in this case 1 for the first one), `firstname` is your first name, and `lastname` is your last name. Failing to follow this will result in a 5 point deduction.
+You will turn in the assigment using the submit server. Please make sure your zip file follows the format `project_N_firstname_lastname.zip`. Where `N` is the project number (in this case 1 for the first one), `firstname` is your first name, and `lastname` is your last name. Failing to follow this will result in a 5 point deduction.
 
 Assignment
 -
