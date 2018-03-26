@@ -31,7 +31,7 @@ This project is more open ended for implementation as in the real world you won'
 
 Tne provided notebook is split into 4 different sections for each of the following tasks with each section titled "Section 1", "Section 2", etc. Make sure at the top of the section under the header, you give an explanation (minimum of 3 sentences) explaining what you did. The four sections are:
 
-1. **Loading the dataa**: Nothing to code.
+1. **Loading the data**: Nothing to code.
 2. **Building the model**: Fill in **at least** two data augmentation methods to be used when training the model. An example of flipping the image has already been completed for you.
 3. **Training the model**: Nothing to code.
 4. **Testing the model and results**: In this section you will train the model and compute the accuracy of your model on the test data from Section 0. Make sure you very clearly have a cell that outputs and prints the percentage accuracy of your model. You will also include any code used to analyze the results here.
