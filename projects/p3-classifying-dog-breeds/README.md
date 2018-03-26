@@ -17,6 +17,15 @@ Assignment
 -
 Using what you've learnt in the class, build a convolutional neural network model that accomplishes this. It should output 133  values which sum up to 1 and are each the probability that the dog is of the respective breed. As you can guess, this is a multi-class classification problem. You can take advantage of Keras and any other preprocessing or data libraries in your code.
 
+#### Notes
+Since convolutional neural networks train on images, they take significantly longer to train than the standard neural nets we have dealt with before. To speed up trianing time, either resize images to a smaller size (try not to go below `32x32`), train your models using AWS or Google Colab, or use transfer learning (extra credit). We didn't talk much about transfer learning in class due to time constraints but you can learn more about it here:
+* https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+* https://towardsdatascience.com/transfer-learning-using-keras-d804b2e04ef8
+* https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/
+
+#### Downloading the Data
+This project uses data provided by Udacity that is too large to upload to GitHub. To download the data, download the `dogImages` zip file from [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) and extract it to your project directory. Make sure that the `dogImages` directory is in the project directory and contains the `train`, `test`, and `validation` directories.
+
 #### Coding (35 points):
 This project is more open ended for implementation as in the real world you won't be given templates to fill your code in. We do however provide a Jupyter Notebook `Practical 2 Code.ipynb` containing a framework for implementing the code that you should follow. All of your code should be written in the Jupyter notebook.
 
@@ -37,8 +46,7 @@ Tne provided notebook is split into 4 different sections for each of the followi
 5. What challenges did you face when completing this task?
 
 #### Extra credit:
-1. Use a validation set as well to visualize the training loss overtime.
-2. In depth explanations and data exploration prior to building the model.
+1. Use transfer learning by retraining a pretrained model on ImageNet on the data and evaluate the change in performance in trianing time.
 
 What to turn in
 -
