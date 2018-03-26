@@ -11,7 +11,7 @@ Overview
 
 Identifying the breed of a dog is often a tedious process when the owner isn't nearby. You have to follow a classification tree of the dog's features one by one which is an arduous process. As a deep learning student, you realize that with your new found knowledge of convolutional neural networks, you can automate this process entirely. People can simply take a picture of the dog and your model can output what it thinks the breed of the dog is. Luckily, Udacity even has trianing data for this exact task that you can use.
 
-You will turn in the assigment using the submit server. Please make sure your zip file follows the format `project_N_firstname_lastname.zip`. Where `N` is the project number (in this case 1 for the first one), `firstname` is your first name, and `lastname` is your last name. Failing to follow this will result in a 5 point deduction.
+You will turn in the assigment using the submit server. Please make sure your zip file follows the format `project_N_firstname_lastname.zip`. Where `N` is the project number, `firstname` is your first name, and `lastname` is your last name. Failing to follow this will result in a 5 point deduction.
 
 Assignment
 -
