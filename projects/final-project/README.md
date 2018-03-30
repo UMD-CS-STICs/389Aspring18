@@ -26,7 +26,7 @@ Since the project is extremely open ended, there are only a few main requirement
 | Checkpoint     | 4/20        | 5%                  |
 | Codebase       | 5/11        | 45%                 | 
 | Video Demo     | 5/11        | 10%                 |
-| In-person Demo | by 5/19     | 10%                 |
+| In-person Demo | 5/19     | 10%                 |
 | Creativity     | None        | 20%                 |
 
 ## Deliverables
