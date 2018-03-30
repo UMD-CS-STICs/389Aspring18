@@ -95,4 +95,4 @@ You are welcome to use any deep learning library of your choice but please make 
 
 I heavily encourage you to work as a single-person team, since building a full project on your own is much more meaningful to employers then team projects where your contributions are harder to pinpoint. However, if there is a situation where two or three students really want to work together, then you can go for it. I will expect the scope of the project to be scale in size to account for multiple teammates working together. **If you want to work on a team project, shoot me an email soon** with an overview of what you want to build, so that I can get back to you ASAP on whether it is the right scope for a two-person team.
 
-
+###### Thanks to the writers of [this](https://github.com/UMD-CS-STICs/389Lfall17/blob/master/vagrant/final-project/README.md) for the wording of much of this document.
