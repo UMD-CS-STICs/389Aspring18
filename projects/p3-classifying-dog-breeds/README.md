@@ -1,7 +1,7 @@
 Practical 3: Classifying Dog Breeds 
 =
 
-Due: 6. April (23:59)
+Due: 8. April (23:59)
 
 ![](http://www.pngpix.com/wp-content/uploads/2016/02/Dog-PNG-Image-1-500x290.png)
 ##### Image from [here](http://www.pngpix.com/download/dog-png-image-2).
