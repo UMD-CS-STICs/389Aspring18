@@ -103,9 +103,9 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 8 (3/16) | Deep Learning for Images (cont.) | [E1 DUE](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/e1-convolutions), [P3 OUT](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/p3-classifying-dog-breeds)|
 | 9 (3/23) | SPRING BREAK | |
 | 10 (3/30) | Deep Learning for Sequences | |
-| 11 (4/6) | Deep Learning for Sequences (cont.) | [P3 DUE](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/p3-classifying-dog-breeds), [Final Project Proposals DUE](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/final-project), P4 OUT |
+| 11 (4/6) | Pretrained Models + Advanced Architectures | [P3 DUE](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/p3-classifying-dog-breeds), [Final Project Proposals DUE](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/final-project), P4 OUT |
 | 12 (4/13) | EXAM | P4 DUE |
-| 13 (4/20) | Pretrained Models | |
+| 13 (4/20) | Advanced Architectures (cont.) | |
 | 14 (4/27) | Review / Guest Speaker TBD | |
 | 15 (5/4) | PRESENTATIONS | [Final Project DUE](https://github.com/UMD-CS-STICs/389Aspring18/tree/master/projects/final-project) |
 
