@@ -28,7 +28,7 @@ MNIST is a famous dataset containing `28x28x1` (note it is black and white image
 This option is the easiest and requires no use of AWS nor transfer learning. As a result, no extra credit will be awarded if you choose this option. In addition, you should include a confusion matrix in your analysis to give insight into where the model misclassifies certain digits. More information about the MNIST dataset can be found [here](http://yann.lecun.com/exdb/mnist/).
 
 ### Submission
-You will turn in the assigment using the submit server. Please make sure your zip file follows the format `project_N_firstname_lastname.zip`. Where `N` is the project number, `firstname` is your first name, and `lastname` is your last name. Failing to follow this will result in a 5 point deduction.
+Please **only submit 1 notebook** based on the option you chose. You will turn in the assigment using the submit server. Please make sure your zip file follows the format `project_N_firstname_lastname.zip`. Where `N` is the project number, `firstname` is your first name, and `lastname` is your last name. Failing to follow this will result in a 5 point deduction.
 
 ## Assignment
 Using what you've learnt in the class, build a convolutional neural network model that accomplishes this. It should output 133  values which sum up to 1 and are each the probability that the dog is of the respective breed. As you can guess, this is a multi-class classification problem. You can take advantage of Keras and any other preprocessing or data libraries in your code.
