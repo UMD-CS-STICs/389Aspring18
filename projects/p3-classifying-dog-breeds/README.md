@@ -13,7 +13,7 @@ Identifying the breed of a dog is often a tedious process when the owner isn't n
 
 Keep in mind that this option is the most difficult option and unless you have access to extremely powerful computational resources (Hint: AWS), it will take forever to train your model. As a result, I reccomend you follow what we've learnt about transfer learning to speed up the training. A good article on how to do it with Keras can be found [here](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html).
 
-> **Extra Credit:** DDue to the difficult of this option, up to *15* extra credit points will be awarded if you successfully build a model that performs well on this dataset. If your model performs well, you get *10* extra points and in addition to those *10*, you can get *5* more points for using transfer learning.
+> **Extra Credit:** Due to the difficult of this option, up to *15* extra credit points will be awarded if you successfully build a model that performs well on this dataset. If your model performs well, you get *10* extra points and in addition to those *10*, you can get *5* more points for using transfer learning.
 
 ### Option 2: CIFAR-10 Object Classification
 CIFAR-10 is a famous image object dataset commonly used to train image classification models on. It consists of 10 classes (airplane, dog, deer, cat, automobile, bird, frog, horse, ship, truck). The classes are completely mutually exclusive. There is no overlap between automobiles and trucks. The goal of your model is to be able to accurately label each image given to you. The images are of size `32x32x3`. 
