@@ -15,6 +15,8 @@ Using what you've learnt in the class, build a LSTM model that accomplishes this
 This project uses data provided by Kaggle that is too large to upload to GitHub. To download the data, download the `.csv` files from [here](https://www.kaggle.com/c/quora-question-pairs/data) and extract it to your project directory.
 **Question Data:** https://www.kaggle.com/c/quora-question-pairs/data
 
+You will also need the pretrained vectors for the Word2Vec model. You can download those here: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
+
 ### Coding (35 pts):
 Building the model in this project is open ended intentionally. You can decide how you want to build your model but we strongly reccomend using a Siamese network as discussed in class. In the real world, you won't be provided a template for coding but for the sake of the class we provide a Jupyter Notebook Practical 2 Code.ipynb containing a framework for implementing the code that you should follow. All of your code should be written in the Jupyter notebook.
 
