@@ -37,9 +37,8 @@ Tne provided notebook is split into 4 different sections for each of the followi
 5. What challenges did you face when completing this task?
 
 
-### Extra Credit:
-1. Augment the training by flipping the inputs and training once again. That way question 2 is now question 1, etc. enforcing symmetry.
-2. Train the model for at least 30 epochs and observe the results.
+### Extra Credit
+1. Train the model for at least 30 epochs and observe the results.
 2. Try using a more advanced model that does more than just concatenate the two hidden representations together. Perhaps add in features such as the cosine similarity between the two sentences, their Levensthein distance, etc.
 
 ## What to turn in
