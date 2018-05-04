@@ -1,6 +1,6 @@
 # Final Project
 
-Due: TBD
+Due: May 18th 8:00AM
 
 ## Overview
 
@@ -23,10 +23,10 @@ Since the project is extremely open ended, there are only a few main requirement
 | Deliverable    | Due Date    | Percent             |
 | -------------- | ----------- | ------------------- |
 | Proposal       | 4/6         | 10%                 |
-| Checkpoint     | 4/20        | 5%                  |
-| Codebase       | 5/11        | 45%                 | 
-| Video Demo     | 5/11        | 10%                 |
-| In-person Demo | 5/19     | 10%                 |
+| Checkpoint     | 5/5        | 5%                  |
+| Codebase       | 5/17        | 45%                 | 
+| Video Demo     | 5/18        | 10%                 |
+| In-person Demo | 5/18        | 10%                 |
 | Creativity     | None        | 20%                 |
 
 ## Deliverables
@@ -42,13 +42,13 @@ Proposals are due by **April 6th** (23:59) and should highlight your project goa
 Please submit your final project slide decks as a follow up discussion to this [Piazza post](). Please following the naming convention: *proposal_project-title.pdf*. Where you replace *project-title* with the title of your project.
 
 ### Checkpoint (5%)
-We will have a mid-way checkpoint on April 20th to checkup on progress made so far. You will need to submit a write-up that includes in detail:
+We will have a mid-way checkpoint on May 4th to checkup on progress made so far. You will need to submit a write-up that includes in detail:
 * Any changes you have made to your project since the proposal.
 * Overview of progress up till now.
 * What remains to be completed.
 * Problems that you are currently facing.
 
-Please submit the checkpoint as a PDF to the submit server by **April 20th** (23:59). Please following the naming convention: *checkpoint_project-title.pdf*. Where you replace *project-title* with the title of your project.
+Please submit the checkpoint as a PDF in a zip file to the submit server by **May 4th** (23:59). Please following the naming convention: *checkpoint_project-title.pdf*. Where you replace *project-title* with the title of your project. Also include in the zip file, the code you currently have done so far. It's okay if it's not perfect but I just want to see that you have at least something meaningful done (e.g. parsing the dataset, analyzing the data).
 
 ### Codebase (45%)
 The project is meant to be public so anyone including employers can view what you have built. To display your work, please upload all your code to a public GitHub repository. The repo should include all your code needed to run your programs and also include a detailed *README.md* including: 
