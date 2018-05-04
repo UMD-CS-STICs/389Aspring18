@@ -1,4 +1,4 @@
-# Practical 4: Indentifying Duplicate Questions on Quora
+# Practical 4: Identifying Duplicate Questions on Quora
 
 Due: 6. May (23:59)
 
