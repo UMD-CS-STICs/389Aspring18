@@ -29,12 +29,13 @@ Here are some papers I think are really good and worth knowing about. Don't worr
 - **Long short-term memory** (1997), S. Hochreiter and J. Schmidhuber. [[pdf]](http://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.1997.9.8.1735)
 
 ## Extra Credit (1% per paper)
-For an oppurtunity to get extra credit in the class you can do the following. Pick a paper that you find interesting and answer the following questions (min 3 detailed sentences per question):
-1. **Title**: What is the title of the paper you read?
-2. **Summary**: Summarize the problem the paper attempted to solve, how they solved it (in general terms), and  their results. 
-3. **Contributions**: What were some of the key contributions in the paper?
-4. **What did you like?**: Based on the material presented in the paper, what aspects did you find particularly interesting?
-5. **How does this relate?**: How does the content covered in the paper relate to what we've been talking about in the class?
+For an oppurtunity to get extra credit in the class you can do the following. Pick a paper that you find interesting (it doesn't have to be in the list) and answer the following questions (min 3 detailed sentences per question):
+1. **Title/Authors**: What is the title of the paper you read and who are the authors?
+2. **Link**: Link to the paper you read.
+3. **Summary**: Summarize the problem the paper attempted to solve, how they solved it (in general terms), and  their results. 
+4. **Contributions**: What were some of the key contributions in the paper?
+5. **What did you like?**: Based on the material presented in the paper, what aspects did you find particularly interesting?
+6. **How does this relate?**: How does the content covered in the paper relate to what we've been talking about in the class?
 
 EveryIf you do this well, you can earn 1% per paper you write about. For submissions that clearly show a lack of effort or thought, no credit will be given. Please email me a PDF containing your answers to the questions. My email is [svishwaj@terpmail.umd.edu](mailto:svishwaj@terpmail.umd.edu).
 
