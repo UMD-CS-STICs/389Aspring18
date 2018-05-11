@@ -1,6 +1,6 @@
 # Final Project
 
-Due: May 18th 8:00AM
+Due: May 17th 8:00AM
 
 ## Overview
 
@@ -23,10 +23,10 @@ Since the project is extremely open ended, there are only a few main requirement
 | Deliverable    | Due Date    | Percent             |
 | -------------- | ----------- | ------------------- |
 | Proposal       | 4/6         | 10%                 |
-| Checkpoint     | 5/5        | 5%                  |
+| Checkpoint     | 5/5         | 5%                  |
 | Codebase       | 5/17        | 45%                 | 
-| Video Demo     | 5/18        | 10%                 |
-| In-person Demo | 5/18        | 10%                 |
+| Video Demo     | 5/17        | 10%                 |
+| In-person Demo | 5/17        | 10%                 |
 | Creativity     | None        | 20%                 |
 
 ## Deliverables
